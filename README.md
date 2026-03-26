@@ -2,7 +2,7 @@
 
 ## Approach & Thought Process
 
-Instead of following a fixed tutorial, I approached this task by exploring the tools step-by-step and solving issues as they came up.
+Instead of relying on a fixed tutorial, I approached this task by exploring the tools step-by-step and solving issues as they arose.
 
 While setting up Cursor and extensions, I encountered multiple points of confusion (such as Git not being detected and multiple similar extensions in the marketplace). Instead of skipping these, I tried to understand the differences and chose the most reliable options.
 
