@@ -68,16 +68,15 @@ This repository documents the process of setting up AI-assisted development tool
 - Setting up tools requires careful selection of correct extensions
 - Official sources (Anthropic, OpenAI) are important for reliability
 - Cursor provides built-in AI capabilities in addition to extensions
-- Problem-solving and adapting to issues is a key part of the process
+- The most useful skill this task built wasn't technical — it was knowing how to make a decision with incomplete information and move forward without second-guessing it. That's something no tutorial teaches directly.
 
 ---
 
 ## Conclusion
 
-This exercise helped me understand how to independently set up new tools, troubleshoot issues, and adapt when things do not work as expected.
-
+This exercise taught me that setting up unfamiliar tools is rarely a straight line.  The instructions were intentionally minimal, and that was the point- figuring out the gaps is part of the task. I ran into real blockers, solved them without asking for help, and came out understanding not just what each tool does, but why the setup choices I made were the right ones.
 ---
 
 ## Reflection
 
-This task reinforced that working with new tools is less about knowing everything upfront and more about navigating ambiguity, verifying information, and making practical decisions.
+The biggest time sink wasn't the installation - it was figuring out which extension was actually correct. "Claude Code" returned multiple results in the marketplace, so I filtered by publisher name (Anthropic and OpenAI) and checked download counts. That one judgement call took longer than every other step combined.
