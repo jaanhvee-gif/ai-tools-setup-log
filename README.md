@@ -74,4 +74,10 @@ This repository documents the process of setting up AI-assisted development tool
 
 ## Conclusion
 
-This exercise helped me understand how to independently set up development tools, troubleshoot issues, and adapt when things do not work as expected. It also provided hands-on experience with AI-assisted coding tools and workflows.
+This exercise helped me understand how to independently set up new tools, troubleshoot issues, and adapt when things do not work as expected.
+
+---
+
+## Reflection
+
+This task reinforced that working with new tools is less about knowing everything upfront and more about navigating ambiguity, verifying information, and making practical decisions.
