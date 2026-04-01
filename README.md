@@ -1,3 +1,42 @@
+# YouTube as a B2B SaaS Growth Engine
+
+## Project Overview
+
+This project explores how YouTube can be used as a growth engine for B2B SaaS companies, focusing on how content translates into distribution, audience building, and pipeline generation.
+
+Instead of treating YouTube as just a content channel, the goal is to understand it as a system — from idea generation to content production, distribution, and business impact.
+
+---
+
+## Approach
+
+The approach for this project is based on studying practitioners who actively use content for growth, rather than relying on theoretical frameworks.
+
+The focus is on identifying high-signal experts across YouTube and LinkedIn, collecting their recent content, and organizing it in a structured format that can later be used to build a repeatable growth playbook.
+
+- YouTube transcripts are collected using API-based methods (Supadata or similar tools)
+- LinkedIn posts are manually collected from recent activity
+
+---
+
+## Objective
+
+The objective of this research is to build a strong foundation of real-world insights that can be used to develop a practical YouTube growth playbook for B2B SaaS.
+
+---
+
+## Repository Structure
+
+/research  
+├── sources.md  
+├── linkedin-posts/  
+├── youtube-transcripts/  
+└── other/  
+
+---
+
+
+# Previous Assignment – AI Tools Setup
 # AI Tools Setup Documentation
 
 ## Approach & Thought Process
