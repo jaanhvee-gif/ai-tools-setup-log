@@ -1,9 +1,5 @@
 # YouTube as a B2B SaaS Growth Engine
 
-# Content as a Growth Engine (YouTube + LinkedIn)
-
-# Content as a Growth Engine (YouTube + LinkedIn)
-
 ## Project Overview
 
 This project explores how top creators and operators use content as a growth engine — across YouTube and LinkedIn — to drive audience building, distribution, and business outcomes.
