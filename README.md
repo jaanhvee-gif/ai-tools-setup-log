@@ -1,27 +1,41 @@
 # YouTube as a B2B SaaS Growth Engine
 
+# Content as a Growth Engine (YouTube + LinkedIn)
+
+# Content as a Growth Engine (YouTube + LinkedIn)
+
 ## Project Overview
 
-This project explores how YouTube can be used as a growth engine for B2B SaaS companies, focusing on how content translates into distribution, audience building, and pipeline generation.
+This project explores how top creators and operators use content as a growth engine — across YouTube and LinkedIn — to drive audience building, distribution, and business outcomes.
 
-Instead of treating YouTube as just a content channel, the goal is to understand it as a system — from idea generation to content production, distribution, and business impact.
+Instead of treating content as isolated posts or videos, the goal is to understand it as a system:
+idea → hook → content → distribution → audience → monetization.
 
 ---
 
 ## Approach
 
-The approach for this project is based on studying practitioners who actively use content for growth, rather than relying on theoretical frameworks.
+This research is based on studying high-signal creators who actively use content to grow businesses, audiences, and influence.
 
-The focus is on identifying high-signal experts across YouTube and LinkedIn, collecting their recent content, and organizing it in a structured format that can later be used to build a repeatable growth playbook.
+Rather than theory, the focus is on real-world execution.
 
-- YouTube transcripts are collected using API-based methods
-- LinkedIn posts are manually collected from recent activity
+The process includes:
+
+- Collecting YouTube transcripts from high-performing videos (manually)
+- Collecting LinkedIn posts from top creators
+- Structuring all data into a clean repository
+- Analyzing patterns across content formats, hooks, storytelling, and distribution
 
 ---
 
 ## Objective
 
-The objective of this research is to build a strong foundation of real-world insights that can be used to develop a practical YouTube growth playbook for B2B SaaS.
+The objective is to extract repeatable patterns and build a practical content playbook that can be used for:
+
+- Personal branding
+- B2B SaaS growth
+- Audience building
+- Content-led acquisition
 
 ---
 
@@ -29,11 +43,41 @@ The objective of this research is to build a strong foundation of real-world ins
 
 /research  
 ├── sources.md  
+├── insights.md  
+├── playbook.md  
 ├── linkedin-posts/  
-├── youtube-transcripts/  
-└── other/  
+└── youtube-transcripts/  
 
----
+## Current Experts
+
+1. Dan Martell  
+2. Noah Kagan  
+3. Ali Abdaal  
+4. Justin Welsh  
+5. Alex Hormozi  
+6. Gary Vaynerchuk (GaryVee)  
+7. Adam Robinson  
+8. Chris Walker  
+9. Paddy Galloway  
+10. Lenny Rachitsky 
+11. Mr Beast 
+
+## Key Idea
+
+Content is not marketing.
+
+It is:
+
+- Distribution  
+- Positioning  
+- Trust building  
+- Pipeline generation  
+
+This project aims to reverse-engineer how the best creators and operators use content to grow.
+
+## Key Learning
+The biggest insight from this research is that YouTube success for B2B SaaS is not driven by knowledge, but by retention, storytelling, and distribution systems.
+Most SaaS companies fail because they treat YouTube as education, while top creators treat it as an attention system.
 
 
 # Previous Assignment – AI Tools Setup
