@@ -14,7 +14,7 @@ The approach for this project is based on studying practitioners who actively us
 
 The focus is on identifying high-signal experts across YouTube and LinkedIn, collecting their recent content, and organizing it in a structured format that can later be used to build a repeatable growth playbook.
 
-- YouTube transcripts are collected using API-based methods (Supadata or similar tools)
+- YouTube transcripts are collected using API-based methods
 - LinkedIn posts are manually collected from recent activity
 
 ---
