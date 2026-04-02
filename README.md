@@ -46,17 +46,17 @@ The objective is to extract repeatable patterns and build a practical content pl
 
 ## Current Experts
 
-1. Dan Martell  
-2. Noah Kagan  
-3. Ali Abdaal  
-4. Justin Welsh  
-5. Alex Hormozi  
-6. Gary Vaynerchuk (GaryVee)  
-7. Adam Robinson  
-8. Chris Walker  
-9. Paddy Galloway  
-10. Lenny Rachitsky 
-11. Mr Beast 
+1. Adam Robinson
+2. Alex Hormozi
+3. Ali Abdaal
+4. Chris Walker
+5. Dan Martell
+6. Gary Vaynerchuk (GaryVee)
+7. Justin Welsh
+8. Lenny Rachitsky
+9. MrBeast
+10. Noah Kagan
+11. Paddy Galloway
 
 ## Key Idea
 
