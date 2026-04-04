@@ -50,9 +50,9 @@ The objective is to extract repeatable patterns and build a practical content pl
 2. Alex Hormozi
 3. Ali Abdaal
 4. Chris Walker
-5. Dan Martell
-6. Gary Vaynerchuk (GaryVee)
-7. Justin Welsh
+5. Colin and Samir
+6. Dan Martell
+7. Gary Vaynerchuk (GaryVee)
 8. Lenny Rachitsky
 9. MrBeast
 10. Noah Kagan
