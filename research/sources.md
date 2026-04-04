@@ -37,35 +37,35 @@ LinkedIn: https://www.linkedin.com/in/ali-abdaal
 Platform: YouTube + LinkedIn  
 Focus: demand generation, B2B marketing strategy  
 Why selected: Directly relevant to B2B SaaS; explains how content contributes to demand generation and pipeline  
-YouTube: https://www.youtube.com/@ChrisWalker-RefineLabs  
+YouTube: https://www.youtube.com/@ChrisWalker171  
 LinkedIn: https://www.linkedin.com/in/chriswalker171  
 
 ---
 
-## 5. Dan Martell  
+## 5. Colin & Samir  
+Platform: YouTube (Primary) / LinkedIn  
+Focus: YouTube strategy, creator economy, content systems, audience building  
+Why selected: One of the strongest sources for understanding how YouTube works as a business and growth engine. They analyze top creators, break down content strategies, and explain how channels grow through retention, storytelling, and distribution. Their insights are directly applicable to building a structured YouTube strategy for B2B SaaS.
+YouTube: https://www.youtube.com/@ColinandSamir  
+LinkedIn: https://www.linkedin.com/in/colin-and-samir-74374b2a3/ 
+
+---
+
+## 6. Dan Martell  
 Platform: YouTube + LinkedIn  
 Focus: SaaS growth, content systems, founder leverage  
 Why selected: Strong alignment with SaaS founders; shows how YouTube content builds authority and drives inbound leads  
 YouTube: https://www.youtube.com/@DanMartell  
-LinkedIn: https://www.linkedin.com/in/dmartell  
+LinkedIn: https://www.linkedin.com/in/dmartell   
 
 ---
 
-## 6. Gary Vaynerchuk (GaryVee)  
+## 7.  Gary Vaynerchuk (GaryVee)  
 Platform: YouTube + LinkedIn  
 Focus: distribution, attention, content volume strategy  
 Why selected: Pioneer of content distribution; demonstrates how consistent YouTube output builds long-term attention  
 YouTube: https://www.youtube.com/@garyvee  
-LinkedIn: https://www.linkedin.com/in/garyvaynerchuk  
-
----
-
-## 7. Justin Welsh  
-Platform: LinkedIn (Primary) / YouTube (Secondary)  
-Focus: B2B audience building, writing systems, solo business  
-Why selected: Strong LinkedIn content systems that can be translated into YouTube positioning and messaging  
-YouTube: https://www.youtube.com/@JustinWelsh  
-LinkedIn: https://www.linkedin.com/in/justinwelsh  
+LinkedIn: https://www.linkedin.com/in/garyvaynerchuk 
 
 ---
 
@@ -101,5 +101,5 @@ LinkedIn: https://www.linkedin.com/in/noahkagan
 Platform: YouTube (Primary)  
 Focus: YouTube growth, retention, viral strategy  
 Why selected: Deep analysis of YouTube performance, including titles, thumbnails, and retention — critical for building scalable strategy  
-YouTube: https://www.youtube.com/@PaddyGalloway  
+YouTube: https://www.youtube.com/@paddygalloway8780  
 LinkedIn: https://www.linkedin.com/in/paddy-galloway-459b8913a  
