@@ -1,0 +1,285 @@
+Adam Robinson https://www.youtube.com/@retentionadam
+Transcript for [11 Years of No-BS SaaS Advice in 10 Minutes](https://www.youtube.com/watch?v=Xovf7vlPfOU) by [Merlin AI](https://merlin.foyer.work/)
+
+0:00 - I've been building SAS companies for 11
+0:02 - years [music] now. I started my first
+0:04 - company, Robbley, as a former Wall
+0:06 - Street trader with zero idea what I was
+0:08 - doing and I grew it to 5 million ARR.
+0:10 - Then got completely stuck for years.
+0:13 - Eventually, I exited it. Then I
+0:14 - bootstrapped Retention.com to over 25
+0:16 - million ARR with a small team. [music]
+0:18 - And just 23 months ago, I launched RBDB,
+0:21 - which scaled from zero to over 7 million
+0:23 - ARR with just three people. So, in this
+0:26 - video, I want to share everything I've
+0:28 - learned over the past 11 years of
+0:30 - building bootstrap SAS companies. The
+0:32 - hard lessons, the mindset shifts, and
+0:34 - the stuff nobody tells you until it's
+0:37 - too late. Let's start with the first
+0:38 - one, which is the first lesson I learned
+0:41 - was that ideas don't matter. Execution
+0:43 - is everything. This is something I wish
+0:45 - I understood when I was starting out. I
+0:47 - used to think having a great idea was
+0:49 - the hard part, but I watched founders
+0:51 - with mediocre ideas execute their way to
+0:54 - massive success. And I've watched
+0:55 - founders with brilliant ideas completely
+0:57 - fail because they couldn't shift. Here's
+1:00 - the hard truth. Nobody's going to sign
+1:02 - up to execute your ideas for you.
+1:04 - Especially when you've never actually
+1:06 - done anything before. When you're
+1:07 - starting out, you have to do everything
+1:10 - yourself. You need to learn how to write
+1:12 - copy, build product, talk to customers,
+1:14 - and close deals. There is no shortcut
+1:16 - around this. Here's another idea. Ideas
+1:19 - are a multiplier of execution. On a zero
+1:22 - to 10 scale, if you have zero execution,
+1:25 - a 10 idea will get you literally
+1:27 - nowhere. If you have 10 out of 10
+1:29 - execution skills and just a mediocre
+1:31 - idea, you're going to have a great
+1:32 - business. The magic happens when you
+1:34 - have 10 out of 10 execution and you also
+1:37 - have a 10 out of 10 idea. The sky is the
+1:40 - limit. Your skills as an entrepreneur
+1:42 - compound over time. The first year is
+1:44 - brutal because you're learning
+1:45 - everything from scratch. But every year
+1:48 - after that, you get faster and better at
+1:50 - everything. So, you must start acquiring
+1:52 - these skills early on so they can start
+1:54 - compounding for you as soon as humanly
+1:57 - possible. Lesson number two was focus on
+1:59 - profit from day one. This is probably
+2:01 - the most contrarian advice about SAS
+2:03 - that I'm going to give. Nobody does this
+2:05 - in tech because VC funding feels like a
+2:08 - shortcut. You go faster with VC money
+2:10 - for sure, but almost no founder actually
+2:13 - makes money that way. VC is set up for a
+2:15 - very small percentage of companies to
+2:17 - have massive success and the rest fail
+2:19 - or even worse tread water for decades.
+2:22 - And treading water as a founder means
+2:23 - you get nothing. I focused on profit
+2:26 - from the very beginning. Not growth at
+2:27 - all costs, not market share, profit. 10
+2:30 - years later, that profit has grown to a
+2:31 - magnitude where we have the resources to
+2:33 - pursue [music] any opportunity as a
+2:35 - company that we want. So why does this
+2:37 - matter? Most people don't actually want
+2:39 - wealth. They want the freedom and
+2:41 - control over their time and job that
+2:43 - wealth gives you. Profit gives you that
+2:45 - freedom. When you're profitable, you can
+2:47 - wait out bad periods without panicking.
+2:50 - You can say no to deals that don't feel
+2:52 - right. You are in full control. Embrace
+2:55 - the idea of spending years, maybe even a
+2:57 - decade, being small in what's called
+2:59 - ramen profitable, making just enough to
+3:02 - keep the lights on and to pay yourself a
+3:04 - modest salary while keeping your life
+3:05 - expenses low. It doesn't feel glamorous,
+3:08 - but being small and self- sustaining
+3:09 - will ultimately compound into real
+3:11 - profits and the freedom that you
+3:13 - actually strive for. It just takes time
+3:16 - and patience. Lesson three is product
+3:19 - quality dictates your trajectory as a
+3:21 - SAS company. The quality of your product
+3:23 - will dictate how much wind you have at
+3:25 - your back as you're building on this
+3:27 - decadesl long journey. This sounds
+3:29 - obvious, but most founders don't
+3:31 - internalize this idea. One of my
+3:33 - favorite sayings is if you have word of
+3:35 - mouth, everything you do works. And if
+3:37 - you don't have word of mouth, nothing
+3:38 - you do works. When I launched RB2B, I
+3:40 - created what Alex Hermoszi calls the
+3:42 - hundred million offer. Competitors were
+3:44 - charging hundreds of thousands of
+3:46 - dollars and only told you who the
+3:48 - company visiting your site was. My offer
+3:50 - was to identify 70 to 80% of your
+3:52 - anonymous website visitors at the person
+3:54 - level and have it free forever. People
+3:56 - couldn't believe that it was real. They
+3:58 - shared it because the offer was so good
+4:00 - they felt stupid not taking it. That
+4:02 - word of mouth from having a genuinely
+4:04 - great product and offer is what took us
+4:06 - from zero to 1 million ARR in just 6
+4:09 - weeks. No amount of marketing can
+4:11 - overcome a bad product. But a great
+4:13 - product makes all your marketing work 10
+4:15 - times better. And by the way, if you
+4:16 - want to take us up on that crazy offer
+4:18 - so you can identify high intent visitors
+4:20 - on your website, you can try RB2B
+4:22 - completely free by clicking the first
+4:24 - link in the description. We'll identify
+4:25 - your visitors at the person level and
+4:27 - we'll push their LinkedIn profiles to
+4:28 - Slack. Now, back to the video. Lesson
+4:31 - number four is great talent is
+4:33 - everything. The quality of your team
+4:34 - will dictate how far and how fast you
+4:37 - go. I cannot stress this enough. When I
+4:39 - was stuck at 2.5 million ARR with
+4:41 - Robbley, I had 38 employees. I was
+4:43 - running a call center out of my
+4:45 - apartment. I had to write all the
+4:46 - scripts myself. If I didn't stay on top
+4:48 - of people, nothing happened. It was
+4:50 - totally exhausting. Today I run multiple
+4:52 - companies doing tens of millions in
+4:54 - combined revenue with a tiny team. And
+4:56 - the difference is the caliber of people
+4:58 - working with me. The longer we exist,
+5:00 - the bigger we get, the more credibility
+5:02 - we have and the better the talent is
+5:04 - that wants to join us. Because here's a
+5:06 - hard truth that I learned after working
+5:07 - with so many people. You will never
+5:09 - regret removing a person from the wrong
+5:11 - role. You only wish you did it sooner.
+5:14 - Lesson number five is that marketing and
+5:16 - product are both non-negotiables. To
+5:19 - even have a shot at success, you need a
+5:21 - great product and great marketing. Don't
+5:23 - sleep on either side or you'll never get
+5:25 - anything off the ground. I see a lot of
+5:27 - technical founders who think they can
+5:29 - just build something great and the
+5:30 - customers will come. That almost never
+5:32 - happens. And I see marketers who think
+5:34 - they can talk their way to success with
+5:36 - a mediocre product. That doesn't work
+5:38 - either. The founders who win are
+5:40 - obsessed with both. They care deeply
+5:42 - about what they're building and they
+5:43 - spend just as much time figuring out how
+5:45 - to get in front of the right people.
+5:47 - Building an organic audience on social
+5:49 - media has completely changed my personal
+5:51 - trajectory. I went from 4,000 to 140,000
+5:55 - LinkedIn followers in just 2 years. And
+5:57 - that audience is what allowed me to
+5:59 - scale RB2B so fast. In my opinion, every
+6:02 - founder should be leaning in to some
+6:04 - sort of organic social media content
+6:06 - creation. Lesson number six is design
+6:08 - your life for decades, not months.
+6:11 - Here's something I see a lot of founders
+6:12 - get wrong. They sprint for two to three
+6:14 - years thinking they'll hit some finish
+6:16 - line and then relax. But that finish
+6:18 - line doesn't exist. What I do instead is
+6:21 - I set up my work so that I can do it for
+6:23 - decades without burning out. Meaning I
+6:25 - don't do things I don't want to do. I
+6:27 - never interview, hire, or fire anyone. I
+6:29 - don't deal with people or operations in
+6:31 - the larger part of the organization. I
+6:33 - only do internal meetings on Monday. I
+6:35 - do content all Tuesdays, marketing on
+6:37 - Wednesdays. By Friday, most weeks, my
+6:39 - calendar is completely empty. I want to
+6:41 - clarify that I'm able to do this because
+6:42 - I've been doing this for over a decade
+6:44 - and I've built up so much profit. But
+6:46 - some people will call that being a soft
+6:49 - CEO, but I'm optimizing for the energy
+6:51 - to keep me at this for decades. And that
+6:53 - rhythm gives me enough energy for my
+6:55 - family life, which gives me energy for
+6:57 - my work. It's a virtuous cycle. Lesson
+6:59 - number seven is have patience and never,
+7:02 - ever, [music] ever give up. Everything
+7:04 - is going to take way longer than you
+7:05 - think. This is the hardest part of being
+7:07 - an entrepreneur. I wrote a letter to
+7:09 - myself in 2016 when I was stuck at 2.5
+7:11 - million ARR. I described the life I
+7:13 - wanted. 25 million ARR, lean team, total
+7:16 - freedom. It took 4 years of hopelessness
+7:19 - after writing that letter to get
+7:20 - something that finally worked. Meaning,
+7:22 - I was stuck at 2.5 million for 4 [music]
+7:24 - years after that. If you're stuck right
+7:26 - now, you might be on day 450 with no
+7:29 - idea if you have 1 year left or 6 years
+7:31 - left. That uncertainty makes the founder
+7:33 - journey 10 times harder. But the only
+7:35 - way to find out is you have to keep
+7:37 - going because relentless focus on one
+7:39 - thing over years and even decades is
+7:41 - what will make you successful. Not
+7:43 - switching ideas every 6 months, not
+7:45 - chasing the next trend. So just keep
+7:48 - building. Lesson number eight is nobody
+7:50 - ahead of you can give you good advice.
+7:52 - This one might be sort of controversial,
+7:54 - but the people who are way ahead of you
+7:56 - can only share their experiences. They
+7:58 - can't actually give you advice about
+8:00 - what's going to work in your [music]
+8:02 - situation. Why? Because the game changes
+8:04 - constantly. What worked for someone 5
+8:06 - years ago might be completely irrelevant
+8:08 - now. Their market, their timing, their
+8:10 - resources were all different than yours.
+8:12 - What they can share is experiences and
+8:15 - then let you pattern match. That's
+8:16 - incredibly valuable. But don't blindly
+8:19 - follow anyone else's playbook. It is not
+8:22 - prescription. It is inspiration. Just
+8:24 - ignore what everybody else is doing
+8:26 - because startups don't kill startups. So
+8:28 - don't copy people and figure out how to
+8:30 - do something new even in crowded spaces.
+8:32 - and just keep making your customers
+8:34 - happy. Lesson number nine is that
+8:36 - everything compounds. This is my biggest
+8:38 - takeaway from 11 years of doing this.
+8:40 - Skills compound, relationship compounds,
+8:43 - profit compounds, and your brand
+8:45 - compounds. In the beginning, nobody
+8:47 - respects you for the small thing you're
+8:49 - working on. You don't have TechCrunch
+8:50 - articles to send to your friends and
+8:51 - family and it feels like you're going
+8:53 - literally nowhere. But if you can just
+8:55 - manage [music] to do what we did, get
+8:57 - something going very small at first,
+8:59 - then keep it going for 5, 10, 15 years,
+9:02 - you'll end up having the one thing you
+9:04 - actually wanted when you started.
+9:06 - Freedom. The ability to determine what
+9:09 - you're doing every single day. That in
+9:11 - my opinion as a founder is the whole
+9:14 - game. Now, if you want to see what we
+9:16 - built with RB2B the past 2 years and the
+9:18 - crazy free offer we have around
+9:20 - identifying your anonymous website
+9:21 - visitors at the person level and pushing
+9:23 - their LinkedIn profiles directly to your
+9:25 - Slack so you can follow up while they're
+9:26 - still warm, then you can try RB2B
+9:28 - completely free by clicking the first
+9:31 - link below. It takes less than 5 minutes
+9:33 - to set up and you'll start seeing who's
+9:35 - on your website immediately. So, click
+9:37 - the link below and try it. And if you
+9:39 - want to see what the best marketing
+9:41 - strategies for SAS are, then watch this
+9:43 - video
