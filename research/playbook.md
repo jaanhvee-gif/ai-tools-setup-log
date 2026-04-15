@@ -108,3 +108,72 @@ For professionals, this means:
 This approach leads to better long-term alignment in both career and business decisions.
 
 (source: Chris Walker, https://www.youtube.com/watch?v=YdEpv0ZAP10, 29-04-2025)
+
+### 5. Community + participation > audience size
+
+Colin & Samir explain that Markiplier’s movie success was not just due to having a large audience, but because of how deeply engaged his community was.
+
+They highlight that while many assume a large following guarantees results, “not all views will drive visits”, meaning audience size alone does not translate into real-world action.
+
+Instead, Markiplier’s success came from:
+
+His audience actively contacting theaters
+Organizing campaigns and email templates
+Driving demand collectively
+
+This demonstrates that:
+Engaged communities take action, passive audiences do not
+
+They further explain that Markiplier is a community-based creator, where:
+
+Content is created with the audience, not just for them
+There is a two-way relationship, not one-way consumption
+
+As they state, this kind of relationship:
+“creates a different level of engagement and opportunity to actually activate a large group of people”
+
+Additionally, they emphasize that true engagement is not measured by likes or comments alone, but by deeper signals such as:
+
+Community discussions
+Fan-driven initiatives
+Real-world participation
+
+For marketers and creators, this means:
+
+Focus on building community, not just audience size
+Prioritize interaction and participation
+Measure success through actions taken, not just views
+
+(source: Colin & Samir, https://www.youtube.com/watch?v=85MwVmoernY 26-02-2026)
+
+### 6. Content should be treated as leverage, not effort
+
+Dan Martell explains that high performers do not rely on effort alone but focus on leverage — where a small input creates a large output.
+
+He highlights that “content” is one of the four key forms of leverage, alongside code, capital, and collaboration. Content allows ideas, systems, and knowledge to scale without continuous effort.
+
+This means that instead of using time-based labor, creators can:
+- Document their knowledge once  
+- Distribute it repeatedly  
+- Generate long-term value from a single input  
+
+He specifically emphasizes that:
+ “Your genius is better used as content than as labor” :contentReference[oaicite:0]{index=0}  
+
+For YouTube strategy, this translates to:
+- Creating videos that act as long-term assets, not one-time outputs  
+- Building content libraries that continuously generate traffic and leads  
+- Treating YouTube as a scalable system, not just a posting platform  
+
+For B2B SaaS, this is especially powerful:
+- One video can educate thousands of potential customers  
+- Content becomes a distribution engine for the product  
+- Over time, videos compound into inbound demand  
+
+This shifts the mindset from:
+“How many videos did I post?”  
+to  
+“How much leverage did this content create?”  
+
+(source: Dan Martell, https://www.youtube.com/watch?v=gNNFsyRIgZA 23-03-2026)
+
