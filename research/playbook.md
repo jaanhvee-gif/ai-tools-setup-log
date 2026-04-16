@@ -38,6 +38,8 @@ This playbook is guided by three principles:
 These principles are used to make decisions when different strategies conflict.
 
 ---
+## Citation Guidelines
+
 ### 1. Content should be built from real execution, not theory 
 
 Content performs better when it is based on real experiences, lessons, and outcomes rather than abstract advice.
@@ -1063,7 +1065,7 @@ The goal is not to discredit these creators, but to highlight **context mismatch
 
 **Why he is successful**
 
-:contentReference (source: MrBeast, https://www.youtube.com/@MrBeast) is one of the most successful creators globally, known for:
+(MrBeast, https://www.youtube.com/@MrBeast) is one of the most successful creators globally, known for:
 - High-budget productions  
 - Extreme challenges and spectacle  
 - Strong storytelling and retention  
@@ -1103,7 +1105,7 @@ Additionally:
 
 **Why he is influential**
 
-:contentReference:(source: Gary Vaynerchuk, https://www.youtube.com/@garyvee) is known for:
+(Gary Vaynerchuk, https://www.youtube.com/@garyvee) is known for:
 - Emphasizing content volume and consistency  
 - Advocating attention-first strategies  
 - Encouraging aggressive content distribution  
