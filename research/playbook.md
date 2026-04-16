@@ -1141,7 +1141,7 @@ Additionally:
 
 ---
 
-## Final Takeaway
+##  Final Takeaway
 
 Not all successful creators should be followed directly.
 
