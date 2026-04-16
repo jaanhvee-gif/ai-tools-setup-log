@@ -923,7 +923,7 @@ Then:
 - Conversion rates improve  
 - Sales teams spend less time explaining basics  
 
-👉 Content becomes an extension of the sales team, not just marketing.
+Content becomes an extension of the sales team, not just marketing.
 
 ---
 
@@ -933,6 +933,229 @@ The most effective content is not the one that gets the most views —
 it is the one that makes the sales conversation easier.
 
 This is where content transitions from:
-📈 “Growth activity”  
-to  
-💰 “Revenue infrastructure”
+“Growth activity” to “Revenue infrastructure”
+
+## Weaknesses of this Playbook
+
+This playbook is designed to be practical and outcome-driven. However, it is not without limitations.
+
+The purpose of this section is to highlight:
+- What might not work  
+- What assumptions are untested  
+- What is missing or context-dependent  
+
+---
+
+### 1. Assumes a clear product–market fit already exists
+
+This playbook heavily relies on aligning content with a business and product.
+
+However:
+- If product–market fit is weak or unclear  
+- If the target audience is not well-defined  
+
+Then:
+- Content may amplify the wrong messaging  
+- Distribution may scale ineffective positioning  
+
+Content cannot fix a weak product or unclear market.
+
+---
+
+### 2. May not work well for early-stage creators without expertise
+
+The playbook prioritizes:
+- Expertise-driven content  
+- Problem-solution depth  
+- Clear positioning  
+
+However, for beginners:
+- They may not yet have strong domain expertise  
+- They may struggle to identify valuable problems  
+
+This creates a barrier where:
+- Content becomes difficult to produce  
+- Confidence and consistency drop  
+
+The approach may need simplification for creators in the “learning phase.”
+
+---
+
+### 3. Underestimates the role of creativity and entertainment
+
+The playbook intentionally prioritizes:
+- Clarity  
+- Business alignment  
+- Conversion potential  
+
+However:
+- It may underutilize emotional engagement  
+- It may lead to overly rational, “dry” content  
+
+In reality:
+- Attention is still driven by storytelling, curiosity, and emotion  
+- Even B2B audiences respond to engaging narratives  
+
+Over-optimizing for logic may reduce reach and engagement.
+
+---
+
+### 4. Requires strong execution and consistency
+
+This playbook assumes:
+- Ability to produce high-quality content consistently  
+- Systems to manage ideation, production, and distribution  
+
+However:
+- Many teams lack resources or processes  
+- Execution quality may vary significantly  
+
+Without strong execution:
+- Even the right strategy will fail  
+- Content output may become inconsistent  
+
+Strategy alone is insufficient without operational capability.
+
+---
+
+### 5. Limited validation of the “pre-sales content” model
+
+The core original idea suggests that content should function as a pre-sales system.
+
+However:
+- This approach is not directly validated in the sources  
+- It is derived from synthesis and reasoning  
+
+Potential risks:
+- Over-structuring content may reduce creativity  
+- Audience may not engage if content feels too “sales-oriented”  
+
+The model requires real-world testing and iteration.
+
+---
+
+## Final Reflection
+
+This playbook is not a universal formula.
+
+It is:
+- A strategic framework  
+- Based on patterns, synthesis, and judgment  
+
+Its effectiveness depends on:
+- Market context  
+- Execution quality  
+- Continuous iteration  
+
+The biggest risk is not that the playbook is wrong —  
+but that it is applied **without adaptation to context**.
+
+
+## Who I Would NOT Recommend Following and Why
+
+This section evaluates which experts from the research may not be suitable to follow in a B2B SaaS context.
+
+The goal is not to discredit these creators, but to highlight **context mismatch** — strategies that work in one domain may not translate effectively into another.
+
+---
+
+### 1. MrBeast
+
+**Why he is successful**
+
+:contentReference (source: MrBeast, https://www.youtube.com/@MrBeast) is one of the most successful creators globally, known for:
+- High-budget productions  
+- Extreme challenges and spectacle  
+- Strong storytelling and retention  
+
+His content is optimized for:
+- Mass entertainment  
+- Viral reach  
+- Maximum watch time  
+
+---
+
+**Why I would NOT recommend following him (for B2B SaaS)**
+
+His model is not suitable for B2B SaaS because:
+
+- It relies heavily on **scale, capital, and production**  
+- It prioritizes **entertainment over information depth**  
+- It is designed for **broad audiences, not niche decision-makers**  
+
+In B2B SaaS:
+- Buyers are looking for clarity, not spectacle  
+- Decisions are driven by trust, not excitement  
+- ROI matters more than virality  
+
+Additionally:
+- Replicating this model is unrealistic for most teams  
+- It can create false expectations around content quality  
+
+👉 Following this approach may lead to:
+- High effort, low conversion  
+- Misaligned audience  
+- Poor return on content investment  
+
+---
+
+### 2. Gary Vaynerchuk
+
+**Why he is influential**
+
+:contentReference:(source: Gary Vaynerchuk, https://www.youtube.com/@garyvee) is known for:
+- Emphasizing content volume and consistency  
+- Advocating attention-first strategies  
+- Encouraging aggressive content distribution  
+
+His approach works well for:
+- Personal branding  
+- Consumer businesses  
+- Social media growth  
+
+---
+
+**Why I would NOT recommend following him (strictly for strategy)**
+
+While valuable for mindset and distribution, his approach has limitations in B2B SaaS:
+
+- Focuses heavily on **attention over intent**  
+- Encourages **high-volume content without deep alignment**  
+- Does not always prioritize **conversion or pipeline impact**  
+
+In B2B SaaS:
+- Not all attention is valuable  
+- Audience quality matters more than reach  
+- Content must align with product and buyer journey  
+
+Additionally:
+- High-volume content can dilute messaging  
+- Teams may prioritize output over strategy  
+
+👉 Following this approach without adaptation may lead to:
+- High visibility but low conversion  
+- Weak positioning  
+- Inefficient use of resources  
+
+---
+
+## Final Takeaway
+
+Not all successful creators should be followed directly.
+
+The key principle is:
+👉 **Relevance over popularity**
+
+A creator’s success depends on:
+- Their business model  
+- Their audience  
+- Their goals  
+
+This playbook prioritizes:
+- Context-specific strategies  
+- Business alignment  
+- Measurable outcomes  
+
+Because in B2B SaaS:
+- The goal is not to go viral  
+- The goal is to **drive qualified demand and revenue**
