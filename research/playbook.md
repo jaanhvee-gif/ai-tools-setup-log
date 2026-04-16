@@ -677,7 +677,7 @@ Each video should act as a **new entry point into your ecosystem**, not a depend
 
 Across all disagreements, one principle stands out:
 
-The best strategy is not what creators prefer —  
+The best strategy is not what creators prefer -  
 it is what drives **retention, distribution, and revenue**.
 
 This playbook prioritizes:
@@ -694,7 +694,7 @@ It is a **growth system**.
 
 This section highlights ideas from experts that were intentionally not included in this playbook.
 
-The goal is to demonstrate **source skepticism** — not all expert advice is universally applicable, especially in B2B SaaS.
+The goal is to demonstrate **source skepticism** - not all expert advice is universally applicable, especially in B2B SaaS.
 
 ---
 
