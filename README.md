@@ -1,3 +1,8 @@
+The research playbook has been successfully completed and documented.  
+It is available in the `/research` folder under the file name `playbook.md`.  
+This document consolidates all insights, analysis, and strategic frameworks derived from the research.  
+It serves as the central reference for understanding YouTube as a B2B SaaS growth engine.
+
 # YouTube as a B2B SaaS Growth Engine
 
 ## Project Overview
