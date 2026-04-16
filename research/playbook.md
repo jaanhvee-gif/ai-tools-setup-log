@@ -38,7 +38,7 @@ This playbook is guided by three principles:
 These principles are used to make decisions when different strategies conflict.
 
 ---
-## Citation Guidelines
+## 🔵 Citation Guidelines
 
 ### 1. Content should be built from real execution, not theory 
 
@@ -432,7 +432,7 @@ to
 (source: Paddy Galloway, https://www.youtube.com/watch?v=EYah62QBLCQ 30-06-2022)
 
 
-## Where Experts Disagree
+## 🔴 Where Experts Disagree
 
 This section highlights key disagreements between experts and evaluates them based on B2B SaaS context.
 
@@ -690,7 +690,7 @@ Because in B2B SaaS, content is not just content.
 It is a **growth system**.
 
 
-## What I Rejected and Why
+## 🟢 What I Rejected and Why
 
 This section highlights ideas from experts that were intentionally not included in this playbook.
 
@@ -821,7 +821,7 @@ Because in B2B SaaS, content is not judged by reach alone —
 it is judged by **its ability to generate real business outcomes**.
 
 
-## My Original Ideas
+## 🟣 My Original Ideas
 
 This section includes ideas that were not directly found in the researched sources, but are derived from synthesizing patterns across them.
 
@@ -937,7 +937,7 @@ it is the one that makes the sales conversation easier.
 This is where content transitions from:
 “Growth activity” to “Revenue infrastructure”
 
-## Weaknesses of this Playbook
+## 🟡 Weaknesses of this Playbook
 
 This playbook is designed to be practical and outcome-driven. However, it is not without limitations.
 
@@ -1053,7 +1053,7 @@ The biggest risk is not that the playbook is wrong —
 but that it is applied **without adaptation to context**.
 
 
-## Who I Would NOT Recommend Following and Why
+## 🟠 Who I Would NOT Recommend Following and Why
 
 This section evaluates which experts from the research may not be suitable to follow in a B2B SaaS context.
 
